@@ -44,4 +44,4 @@ cd fde-training-learner
 
 ## 许可
 
-待定（讲师确认后补充）。
+MIT © 2026 FDE Lab · XJTLU-AOA-TECH，见 [LICENSE](LICENSE)。
