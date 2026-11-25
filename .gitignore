@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.log
+tokens.json
+private/
+_local/
+tmp/
